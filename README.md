@@ -1,2 +1,2 @@
-# wildlife-sanctuary-db
-Wildlife sanctuary management built with Python &amp; PostgreSQL — normalized schema, constraint enforcement via triggers, CRUD operations, and audit-ready reporting pipelines.
+# wildlife-conservation-research-network
+A multi-site wildlife conservation management system demonstrating advanced SQL database design. Tracks animal genetic lineage across sanctuary facilities, enforces breeding compatibility rules at the database layer using recursive pedigree CTEs, logs behavioral field observations as partitioned time-series data, and coordinates inter-facility transfers through atomic stored procedures. Built with MySQL 8.0 and Python/Tkinter.
